@@ -2,9 +2,9 @@
 telegram bot express node js
 
 
-# On .env
-set
-```BOT_TOKEN=```
+## add BOT_TOKEN on ```.env```
+
+```BOT_TOKEN=<token>```
 
 ## Installation
 
